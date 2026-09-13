@@ -6,7 +6,7 @@ A relational data model and interactive KPI dashboard built in Microsoft Excel (
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard-screenshot.png)
 
 ---
 
